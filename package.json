@@ -2,7 +2,7 @@
   "name": "ada-lovelace-front-recruiter",
   "version": "0.1.0",
   "private": true,
-  
+
   "scripts": {
     "start": "npm i -g serve && serve -s build",
     "start-dev": "react-scripts start",
@@ -36,7 +36,7 @@
     "@types/react-redux": "^7.1.9",
     "@types/react-router-dom": "^5.1.5",
     "@types/redux-devtools-extension": "^2.13.2",
-    "@types/redux-thunk": "^2.1.0",
+    "@types/redux-thunk": "^2.1.0"
   },
   
   "eslintConfig": {
